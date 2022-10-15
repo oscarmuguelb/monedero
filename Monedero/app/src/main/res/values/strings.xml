@@ -1,0 +1,26 @@
+<resources>
+
+
+    <string name="app_name">Divisas</string>
+    <string name="convertidor">Enviar</string>
+    <string name="instruciones">Ingrese valor actual</string>
+    <string name="guia">10.00...</string>
+    <string name="instruc2">Convertir a...</string>
+    <string name="tema">Convertidor</string>
+    <string name="todo">TODO</string>
+
+
+    <string-array name="conver">
+        <item>USD</item>
+        <item>EU</item>
+        <item>MXN</item>
+    </string-array>
+
+
+    <string-array name="conver2">
+        <item>USD</item>
+        <item>EU</item>
+        <item>MXN</item>
+    </string-array>
+
+</resources>
